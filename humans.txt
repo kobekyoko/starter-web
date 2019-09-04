@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    KY ky@git.training @kygit
 
 # THANKS
 
